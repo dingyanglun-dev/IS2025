@@ -1,0 +1,2 @@
+# Data vs. Information in Your Bank App: When you check your banking app, you see your current balance. What is the raw data that had to be collected and processed to generate that single piece of information (your balance)?
+When you check your balance in the banking app, the raw data includes things like deposits, withdrawals, fees, and interest. This data is processed by the bank to calculate your balance. The information you see in the app is the final result of this processing, showing your current balance after adding and subtracting all the transactions.

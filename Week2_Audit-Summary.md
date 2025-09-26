@@ -19,3 +19,9 @@ thr tool: same as chatgpt~
  SQL tools are software applications that help users interact with databases by writing queries, managing data, and performing tasks like creating tables, updating records, and analyzing results.
 
 <img width="570" height="300" alt="image" src="https://github.com/user-attachments/assets/123a53db-dcd3-4084-8563-3f8233177366" />
+
+# Mission 3(Lab 2: Mobile Apps) Choose your 3 most frequently used Apps on your personal mobile phone.
+
+Ans: 
+App Name/	Developer/	Latest Version (approx.)/	Category
+TikTok/	ByteDance/	26.0.4 (varies by platform)/Social Media / Video Sharing

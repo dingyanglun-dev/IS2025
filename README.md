@@ -6,6 +6,7 @@
 
 
 
-https://static.vecteezy.com/system/resources/previews/035/943/653/non_2x/the-five-components-of-an-information-system-of-hardware-software-data-people-and-process-vector.jpg
+<img width="1225" height="980" alt="image" src="https://github.com/user-attachments/assets/4a9568ee-f46f-4d72-8117-9d941022e8d2" />
+
 
 

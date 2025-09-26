@@ -14,4 +14,8 @@ thr tool: same as chatgpt~
 
 <img width="1834" height="880" alt="image" src="https://github.com/user-attachments/assets/38b3ba41-995b-41d6-81c8-b7bc99af87b1" />
 
-# Mission 2
+# Mission 2(Lab 1: Database Software) Identify any database management or data processing software installed on your classroom PC (e.g., Access, SQL tools). Report "Not Found" if none are present.
+
+ SQL tools are software applications that help users interact with databases by writing queries, managing data, and performing tasks like creating tables, updating records, and analyzing results.
+
+<img width="570" height="300" alt="image" src="https://github.com/user-attachments/assets/123a53db-dcd3-4084-8563-3f8233177366" />

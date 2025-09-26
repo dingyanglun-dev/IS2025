@@ -24,4 +24,6 @@ thr tool: same as chatgpt~
 
 Ans: 
 App Name/	Developer/	Latest Version (approx.)/	Category
+
+
 TikTok/	ByteDance/	26.0.4 (varies by platform)/Social Media / Video Sharing

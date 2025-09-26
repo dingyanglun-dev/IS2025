@@ -34,6 +34,14 @@ TikTok/	ByteDance/	26.0.4 (varies by platform)/Social Media / Video Sharing
 
 Ans:  One productivity app I use is Google Calendar, which helps optimize my personal workflow by organizing my schedule, sending reminders for meetings and deadlines, and allowing me to plan my day efficiently, so I stay on track and manage my time better.
 
+<img width="1910" height="905" alt="image" src="https://github.com/user-attachments/assets/438ac24f-8ba3-4a5d-bfae-4fd15785905b" />
+
+# Mission 5(Lab 3: Operating System) Record the Operating System Name and Version for both your PC and Mobile Phone.
+
+Ans: PC is Win 11.
+
+<img width="1057" height="865" alt="image" src="https://github.com/user-attachments/assets/392ded55-ac30-428c-bbee-4aa0b6e0a3fa" />
+
 
 
 

@@ -27,3 +27,14 @@ App Name/	Developer/	Latest Version (approx.)/	Category
 
 
 TikTok/	ByteDance/	26.0.4 (varies by platform)/Social Media / Video Sharing
+
+<img width="2560" height="1707" alt="image" src="https://github.com/user-attachments/assets/64ef96b8-3620-4c8c-a452-3d5ab0edbaaa" />
+
+# Mission 4(Lab 2: Productivity App) Identify 1 "Productivity" App on your phone and briefly explain how it optimizes a personal Process (workflow).
+
+Ans:  One productivity app I use is Google Calendar, which helps optimize my personal workflow by organizing my schedule, sending reminders for meetings and deadlines, and allowing me to plan my day efficiently, so I stay on track and manage my time better.
+
+
+
+
+
